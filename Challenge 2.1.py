@@ -29,7 +29,7 @@ class BankAccount:
         print(f"Account Balance: ₹{self.__account_balance}")
 
 # Example usage:
-account1 = BankAccount("123456789", "Maddy Mathav", 1000)
+account1 = BankAccount("123456789", "Tamil nithi", 1000)
 account1.display_balance()
 
 account1.deposit(500)
